@@ -2,7 +2,7 @@ const fs = require('fs');
 
 if (process.argv.length != 3) {
     console.log('USAGE:');
-    console.log('node part1.js <input file>');
+    console.log('node index.js <input file>');
     process.exit(1)
 }
 
